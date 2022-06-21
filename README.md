@@ -5,12 +5,3 @@ Given n, take the sum of the digits of n. If that value has more than one digit,
 https://www.codewars.com/kata/541c8630095125aba6000c00/train/python
 
  
-
-
-
-
-
-
-
-
-
